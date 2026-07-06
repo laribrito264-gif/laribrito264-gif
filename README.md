@@ -1,7 +1,7 @@
 <p aling="center">
-  <img src="banner1989.jpeg"
-    alt="Banner" width="100%>
-    </p>
+  <img src="./banner1989.jpeg"
+    width="100%>" alt="Banner 1989">
+</p>
 # 👋 Óla, eu sou a Larissa!
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Apaixonada por tecnologia e aprendendo desenvolvimento Back-end.
