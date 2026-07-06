@@ -1,6 +1,6 @@
 <p aling="center">
-  <img src="./banner1989.jpeg"
-    width="100%>" alt="Banner 1989">
+  <img
+    src="https://raw.githubusercontent.com/laribrito264-gif/laribrito264-gif/main/banner%201989.jpeg" widht="100%">
 </p>
 # 👋 Óla, eu sou a Larissa!
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
