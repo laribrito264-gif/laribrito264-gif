@@ -40,11 +40,16 @@
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laribrito264-gif&show_icons=true)
 ## 🚀 Objetivos
 - Conquistar minha primeira oportunidade na área de tecnologia.
 - Desenvolver projetos para colocar em prática o que aprendo.
 - Evoluir constatemente como desenvolvedora.
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laribrito264-gif&show_icons=true)
+## 🏆 GitHub Trophies
 
-> *"To live for the hope of it all."* 🌿
+[![trophy](https://github-profile-trophy.vercel.app/?username=laribrito264-gif&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+---
+## 🌊 Thanks for visiting!
+
+> *"Learning one line of code at a time."* 💙
