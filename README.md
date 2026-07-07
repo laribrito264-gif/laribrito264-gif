@@ -4,6 +4,23 @@
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=6FA8DC&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Larissa!;Estudante+de+ADS;Back-end+Developer+in+Progress;Java+%7C+SQL+%7C+Git+%7C+GitHub;1989+%F0%9F%8C%8A+%7C+Jujutsu+Kaisen+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+</p
+# 👋 Óla, eu sou a Larissa!
+## 💙 Sobre mim
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
+
+☕ Atualmente estudando **Java, SQL, Git e GitHub**
+
+🚀 Construindo projetos para desenvolver minhas habilidades como desenvolvedora Back-end.
+
+🌱 Sempre aprendendo algo novo.
+
+✨ *"One project at a time."*
+<h2>🛠️ Tecnologias</h2> 
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=git,github,java,mysql,html,css,vscode"/>
 </p>
 ## 🌟 Badges
 
@@ -12,7 +29,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Learning-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF6C37?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-# 👋 Óla, eu sou a Larissa!
+
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Apaixonada por tecnologia e aprendendo desenvolvimento Back-end.
 🌱 Atualmente estudando:
@@ -24,11 +41,6 @@
 - Conquistar minha primeira oportunidade na área de tecnologia.
 - Desenvolver projetos para colocar em prática o que aprendo.
 - Evoluir constatemente como desenvolvedora.
-<h2>🛠️ Tecnologias</h2> 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=git,github,java,mysql,html,css,vscode"/>
-</p>
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laribrito264-gif&show_icons=true)
 
