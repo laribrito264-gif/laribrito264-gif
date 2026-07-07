@@ -26,5 +26,4 @@ src="https://github-readme-stats.vercel.app/api?username=laribrito264-gif&show_i
   <img height="170" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=laribrito264-gif&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
---- 
 > *"To live for the hope of it all."* 🌿
