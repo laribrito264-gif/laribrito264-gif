@@ -14,10 +14,10 @@
 - Conquistar minha primeira oportunidade na área de tecnologia.
 - Desenvolver projetos para colocar em prática o que aprendo.
 - Evoluir constatemente como desenvolvedora.
-## 🛠️ Tecnologias 
-- Git
-- Github
-- Java
-- SQL
+<h2>🛠️ Tecnologias</h2> 
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=git,github,java,mysql,html,css,vscode"/>
+</p>
 --- 
 > *"To live for the hope of it all."* 🌿
