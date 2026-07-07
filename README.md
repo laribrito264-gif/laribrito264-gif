@@ -29,6 +29,17 @@
 ![SQL](https://img.shields.io/badge/SQL-Learning-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF6C37?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/larissa-brito2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:laribrito264@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 ## 🚀 Objetivos
 - Conquistar minha primeira oportunidade na área de tecnologia.
 - Desenvolver projetos para colocar em prática o que aprendo.
