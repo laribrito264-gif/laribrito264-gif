@@ -2,6 +2,9 @@
   <img
     src="https://raw.githubusercontent.com/laribrito264-gif/laribrito264-gif/main/banner%201989.jpeg" widht="100%">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=6FA8DC&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Larissa!;Estudante+de+ADS;Back-end+Developer+in+Progress;Java+%7C+SQL+%7C+Git+%7C+GitHub;1989+%F0%9F%8C%8A+%7C+Jujutsu+Kaisen+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+</p>
 # 👋 Óla, eu sou a Larissa!
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Apaixonada por tecnologia e aprendendo desenvolvimento Back-end.
