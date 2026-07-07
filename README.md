@@ -5,6 +5,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=6FA8DC&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+a+Larissa!;Estudante+de+ADS;Back-end+Developer+in+Progress;Java+%7C+SQL+%7C+Git+%7C+GitHub;1989+%F0%9F%8C%8A+%7C+Jujutsu+Kaisen+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 </p>
+## 🌟 Badges
+
+![ADS](https://img.shields.io/badge/ADS-Student-4A90E2?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-Learning-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Learning-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF6C37?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 # 👋 Óla, eu sou a Larissa!
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Apaixonada por tecnologia e aprendendo desenvolvimento Back-end.
