@@ -42,6 +42,7 @@
 </p>
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laribrito264-gif&show_icons=true)
+
 ## 🚀 Objetivos
 - Conquistar minha primeira oportunidade na área de tecnologia.
 - Desenvolver projetos para colocar em prática o que aprendo.
