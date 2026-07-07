@@ -29,14 +29,6 @@
 ![SQL](https://img.shields.io/badge/SQL-Learning-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF6C37?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Apaixonada por tecnologia e aprendendo desenvolvimento Back-end.
-🌱 Atualmente estudando:
-- Git e Github
-- Lógica de programação
-- Java
-- SQL
 ## 🚀 Objetivos
 - Conquistar minha primeira oportunidade na área de tecnologia.
 - Desenvolver projetos para colocar em prática o que aprendo.
